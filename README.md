@@ -10,3 +10,5 @@ When I applied to 5amsolutions, this was one of the assignment.
 
 com.fiveamsolutions.AnagramFinder is the interface and you can see implementations
 of this and using Strategy Design Pattern have incorporated tests as well.
+
+5amsolutions liked my solutions - But they said I was overqualified for the job.
